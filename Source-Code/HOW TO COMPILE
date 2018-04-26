@@ -1,0 +1,24 @@
+EXPLODING MARBLES
+V7.0 
+OPEN-SOURCE EDITION!
+CREATED BY MICHAEL HARDY
+
+-----------------------------------------------------------------------------------------------------
+HOW TO COMPILE THE SOURCE CODE...
+-----------------------------------------------------------------------------------------------------
+
+To Compile the Exploding Marbles Source Code into a Working Game you will need:
+
+•	Visual Basic 6.0 (ENTERPRISE OR Professional Edition) - Probably won't convert to later versions
+•	The DirectX 8.1 or 9.0 SDK (Now Not Required)
+•	A Version of Microsoft Windows Operating System (Windows XP or higher)
+•	Commercial Version of SkinCrafter v2.8.1 or later (To Get This For Free Simply Install the Exploding Marbles Executable (Binary) From http://marbles.typosoftdev.com
+•	THE REQUIRED DATA FILES, INSTALL THE GAME!
+
+THE INSTALLATION WIZARD IS CREATED USING ADVANCED INSTALLER (COMMERCIAL) I CAN NOT PROVIDE THE INSTALLATION FILES…
+
+Now once you have the required Tools, Open up the Exploding Marbles.vbp File
+that’s in the project folder, in Visual Basic and Go to the File Menu and Choose "Make Exe"
+
+If all goes well you should have a fully working executable called "Marbles.exe"
+You should Save the Executable in the Game and Data Direc
